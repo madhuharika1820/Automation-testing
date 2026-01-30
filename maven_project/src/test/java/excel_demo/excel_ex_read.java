@@ -5,7 +5,7 @@ import java.io.IOException;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-public class excel_ex {
+public class excel_ex_read {
 public static void main(String[] args)throws IOException
 {
 	//String prjpath=System.getProperty("user.dir");

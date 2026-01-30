@@ -1,6 +1,6 @@
 Feature:
 
-Scenario:validate google search page working
+Scenario: validate google search page working
 
 Given browser is open
 And user is on google search page
