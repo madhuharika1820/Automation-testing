@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-10T11:58:51 UTC" name="Default suite" finished-at="2026-02-10T11:58:53 UTC" duration-ms="1976">
+    <groups>
+    </groups>
+    <test started-at="2026-02-10T11:58:51 UTC" name="Default test" finished-at="2026-02-10T11:58:53 UTC" duration-ms="1976">
+      <class name="restassured_exam.rest_in_peace">
+        <test-method signature="rest_demo2(int)[pri:0, instance:restassured_exam.rest_in_peace@59474f18]" started-at="2026-02-10T11:58:51 UTC" name="rest_demo2" data-provider="userid" finished-at="2026-02-10T11:58:52 UTC" duration-ms="1410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rest_demo2 -->
+        <test-method signature="rest_demo2(int)[pri:0, instance:restassured_exam.rest_in_peace@59474f18]" started-at="2026-02-10T11:58:52 UTC" name="rest_demo2" data-provider="userid" finished-at="2026-02-10T11:58:52 UTC" duration-ms="53" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rest_demo2 -->
+        <test-method signature="rest_demo2(int)[pri:0, instance:restassured_exam.rest_in_peace@59474f18]" started-at="2026-02-10T11:58:52 UTC" name="rest_demo2" data-provider="userid" finished-at="2026-02-10T11:58:53 UTC" duration-ms="470" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rest_demo2 -->
+      </class> <!-- restassured_exam.rest_in_peace -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
